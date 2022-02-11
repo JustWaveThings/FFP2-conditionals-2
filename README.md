@@ -8,7 +8,7 @@
 <!-- Takeaways -->
 ### Takeaways from this Exercise/Project:
 
-- #### **What went well:**
+- #### **What went well / Key takeaways:**
   * example text 
 
 - #### **Struggles & Opportunities:**
